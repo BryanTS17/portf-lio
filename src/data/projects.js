@@ -51,4 +51,40 @@ export const projectItems = [
     demoUrl: "https://github.com/BryanTS17/A90-Doors-Ransom",
     githubUrl: "https://github.com/BryanTS17/A90-Doors-Ransom",
   },
+  {
+    title: "Yu-Gi-Oh! Master Cards",
+    description:
+      "Aplicação web desenvolvida com JavaScript que utiliza a API do YGOPRODeck para consultar cartas de Yu-Gi-Oh!. Permite filtrar cartas por nome, ATK e DEF, visualizar imagens e consultar informações como tipo e descrição dos efeitos. O projeto explora requisições HTTP, manipulação do DOM e criação dinâmica de elementos.",
+    image: "/Captura de tela 2026-10-12 104942.png",
+    techStack: ["JavaScript", "HTML", "CSS", "REST API", "Fetch API"],
+    demoUrl: "https://github.com/BryanTS17/YU-GI-OH-Master-Cards",
+    githubUrl: "https://github.com/BryanTS17/YU-GI-OH-Master-Cards",
+  },
+  {
+    title: "Jogo da Memória 2.0",
+    description:
+      "Jogo da memória desenvolvido com JavaScript, com fases progressivas, sistema de vidas, pontuação e itens especiais. Inclui animações com CSS, efeitos sonoros e mecânicas que alteram a dificuldade e a jogabilidade.",
+    image: "/Captura de tela 2026-10-12 110725.png",
+    techStack: ["JavaScript", "HTML", "CSS", "DOM API"],
+    demoUrl: "https://github.com/BryanTS17/jogo-da-memoria",
+    githubUrl: "https://github.com/BryanTS17/jogo-da-memoria",
+  },
+  {
+    title: "Leilão da Sala",
+    description:
+      "Jogo desenvolvido no GameMaker como projeto escolar para ensinar educação financeira. Os jogadores administram um orçamento limitado, disputam itens em um leilão e precisam equilibrar gastos essenciais, itens de lazer e dinheiro restante para alcançar a melhor pontuação.",
+    image: "/Captura de tela 2026-10-08 213257.png",
+    techStack: ["GameMaker", "GML", "Game Design"],
+    demoUrl: "",
+    githubUrl: "",
+  },
+  {
+    title: "Portfólio Pessoal",
+    description:
+      "Portfólio web desenvolvido com React e Vite para apresentar meus projetos, habilidades e experiências em programação. Possui uma interface responsiva e organizada, com links para demonstrações e repositórios dos projetos.",
+    image: "/Captura de tela 2026-10-12 114010.png",
+    techStack: ["React", "JavaScript", "HTML", "CSS", "Vite"],
+    demoUrl: "https://portf-lio-nu-orcin.vercel.app",
+    githubUrl: "https://github.com/BryanTS17/portf-lio",
+  },
 ];
