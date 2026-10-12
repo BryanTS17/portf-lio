@@ -19,15 +19,7 @@ This template includes:
 
   ## Live Demo
 
-- https://gredient-animated-portfolio.vercel.app/
-
-## Tech Stack
-
-- React
-- Vite
-- Tailwind CSS (`@tailwindcss/vite`)
-- Framer Motion
-- lucide-react icons
+- https://portf-lio-nu-orcin.vercel.app
 
 ## Installation
 
@@ -41,39 +33,6 @@ npm run dev
 ```bash
 npm run build
 ```
-
-## Customization Guide
-
-All user-editable portfolio content is stored in:
-
-- `src/data/profile.js`
-- `src/data/projects.js`
-- `src/data/skills.js`
-- `src/data/experience.js`
-- `src/data/testimonials.js`
-
-### What to edit in each file
-
-- `profile.js`
-  - Name, title, intro, about content, location, availability
-  - Contact details (email, social links)
-  - Navbar links and hero CTA labels
-- `projects.js`
-  - Project title, image, description, tech stack, demo/GitHub links
-- `skills.js`
-  - Skills list and tech stack list
-- `experience.js`
-  - Timeline entries (company, role, duration, description)
-- `testimonials.js`
-  - Name, role, image, feedback
-
-## Placeholder Images
-
-Current placeholders use:
-
-- `https://picsum.photos`
-
-You can safely replace these with Unsplash or Pexels URLs.
 
 ## Folder Structure
 
@@ -119,9 +78,4 @@ Template is built and styled for:
 - 1024px
 - 1440px
 
-## Marketplace Readiness Notes
 
-- Clean and reusable component architecture
-- Fully data-driven user content management
-- Modern visual style for developer audiences
-- Smooth animation defaults with reduced-motion support
